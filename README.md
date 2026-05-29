@@ -63,3 +63,6 @@ Wireshark captures actual packets to verify Nmap results and analyze traffic in 
 
 ## Key Concepts Learned
 Port scanning, TCP SYN scan, network reconnaissance, open port risks
+
+## Output Screenshot
+![Scan Output](screenshot.png)
