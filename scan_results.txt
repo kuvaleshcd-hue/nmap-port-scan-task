@@ -1,0 +1,11 @@
+# Nmap 7.99 scan initiated Fri May 29 18:54:11 2026 as: nmap -sS -oN scan_results.txt 192.0.0.0/24
+Nmap scan report for 192.0.0.2
+Host is up (0.000012s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE SERVICE
+3306/tcp  open  mysql
+5000/tcp  open  upnp
+7000/tcp  open  afs3-fileserver
+49152/tcp open  unknown
+
+# Nmap done at Fri May 29 18:57:39 2026 -- 256 IP addresses (1 host up) scanned in 208.63 seconds
