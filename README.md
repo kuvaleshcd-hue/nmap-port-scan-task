@@ -19,7 +19,7 @@ Only 1 host was up: 192.0.0.2
 | 3306 | open | MySQL (Database) |
 | 5000 | open | UPnP |
 | 7000 | open | AFS3 File Server |
-| 49152 | open | Unknown |
+| 49152 | open | Unknown |. 
 
 ## Risk Analysis
 | Port | Service | Risk Level | Recommendation |
