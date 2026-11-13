@@ -50,7 +50,7 @@ Close unused ports, use firewalls, update services regularly, use VPN.
 Filters traffic by allowing or blocking specific ports based on rules.
 
 **Q7: What is a port scan and why do attackers use it?**
-Reconnaissance technique to find open ports and services — first step in an attack.
+Reconnaissance technique to find open ports and services — first step in an attack.   
 
 **Q8: How does Wireshark complement Nmap?**
 Wireshark captures actual packets to verify Nmap results and analyze traffic in detail.
