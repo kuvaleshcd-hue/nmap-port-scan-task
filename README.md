@@ -59,7 +59,7 @@ Wireshark captures actual packets to verify Nmap results and analyze traffic in 
 - scan_results.txt — raw Nmap text output
 - scan_results.xml — XML format output
 - scan_results.html — HTML report
-- analyze.py — Python script to parse and analyze results
+- analyze.py — Python script to parse and analyze results.  
 
 ## Key Concepts Learned
 Port scanning, TCP SYN scan, network reconnaissance, open port risks
